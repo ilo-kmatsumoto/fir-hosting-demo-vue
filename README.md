@@ -1,6 +1,9 @@
 # vue-demo
 
 > A Vue.js project
+[https://fir-hosting-demo-vue.web.app](https://fir-hosting-demo-vue.web.app)
+[https://fir-hosting-demo-vue.firebaseapp.com](https://fir-hosting-demo-vue.firebaseapp.com)
+
 
 ## Build Setup
 
